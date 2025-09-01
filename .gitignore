@@ -172,3 +172,4 @@ credentials.json
 
 # Playwright browsers (optional - uncomment if you don't want to track browser binaries)
 # ms-playwright/
+images/
