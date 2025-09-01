@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #0076cb;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3 {
+        fill: #0faaff;
+      }
+
+      .cls-4 {
+        fill: #ffaf00;
+      }
+    </style>
+  </defs>
+  <rect class="cls-3" x="3.22" y=".56" width="9.47" height="2.42"/>
+  <rect class="cls-1" x="3.17" y=".38" width="3.04" height="9.54" rx=".62" ry=".62" transform="translate(-1.95 3.04) rotate(-30)"/>
+  <rect class="cls-1" x="6.54" y="3.65" width="9.54" height="3.04" rx=".62" ry=".62" transform="translate(1.18 12.38) rotate(-60)"/>
+  <path class="cls-4" d="M13.19,10.3c0,2.87-2.32,5.2-5.19,5.2-1.61,0-3.13-.74-4.11-2.02l-.12-.17c-1.66-2.34-1.12-5.58,1.22-7.25,2.34-1.66,5.58-1.12,7.25,1.22,.63,.88,.96,1.93,.96,3.01h-.01Z"/>
+  <path class="cls-2" d="M10.52,12.35c-1.15,1.27-3.12,1.37-4.39,.22-.71-.64-1.08-1.57-1.02-2.52v-.14c.22-1.7,1.78-2.91,3.48-2.69,.63,.08,1.22,.35,1.69,.78"/>
+</svg>
